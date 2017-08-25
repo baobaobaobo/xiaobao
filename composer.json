@@ -1,0 +1,14 @@
+{
+    "name": "baobaobaobo/xiaobao",
+    "description": "xiaobao",
+    "type": "xiaobao",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "bb",
+            "email": "15901206057@163.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
